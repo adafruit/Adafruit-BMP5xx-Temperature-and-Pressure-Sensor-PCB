@@ -1,10 +1,10 @@
 ## Adafruit BMP5xx I2C or SPI Temperature and Pressure Sensors - STEMMA QT PCB
 
-<a href="http://www.adafruit.com/products/6413"><img src="assets/6413.jpg?raw=true" width="250px"><br/>
-Click here to purchase one from the Adafruit shop</a><br>
-<a href="http://www.adafruit.com/products/6413"><img src="assets/6411.jpg?raw=true" width="250px"><br/>
-Click here to purchase one from the Adafruit shop</a><br>
-<a href="http://www.adafruit.com/products/6413"><img src="assets/6407.jpg?raw=true" width="250px"><br/>
+<a href="http://www.adafruit.com/products/6413"><img src="assets/6413.jpg?raw=true" width="500px"><br/>
+Click here to purchase one from the Adafruit shop</a>
+<a href="http://www.adafruit.com/products/6413"><img src="assets/6411.jpg?raw=true" width="500px"><br/>
+Click here to purchase one from the Adafruit shop</a>
+<a href="http://www.adafruit.com/products/6413"><img src="assets/6407.jpg?raw=true" width="500px"><br/>
 Click here to purchase one from the Adafruit shop</a>
 
 PCB files for the Adafruit BMP5xx I2C or SPI Temperature and Pressure Sensors - STEMMA QT. 
